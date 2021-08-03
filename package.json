@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "pair coding exercise for Web602",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndao1005/ExpressJS.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "John Dao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johndao1005/ExpressJS/issues"
+  },
+  "homepage": "https://github.com/johndao1005/ExpressJS#readme"
+}
