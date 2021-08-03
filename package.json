@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/johndao1005/ExpressJS/issues"
   },
-  "homepage": "https://github.com/johndao1005/ExpressJS#readme"
+  "homepage": "https://github.com/johndao1005/ExpressJS#readme",
+  "dependencies": {
+    "express-generator": "^4.2.0",
+    "mkdirp": "^1.0.4"
+  }
 }
